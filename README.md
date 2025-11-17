@@ -4,5 +4,6 @@ Android app development using React Native
 Day 1: Setup, Say hi to android development app dev
 using react native
 
-learnedgit commands via vsc     
-using command gtryhrhyr
+learned git commands via vsc     
+using command
+  
